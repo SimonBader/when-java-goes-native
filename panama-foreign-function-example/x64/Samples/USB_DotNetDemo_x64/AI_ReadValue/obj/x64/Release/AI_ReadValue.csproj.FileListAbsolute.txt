@@ -1,0 +1,14 @@
+D:\USBIO\USB\x64\USB_DotNetDemo_x64\AI_ReadValue\obj\x64\Release\AI_ReadValue.Properties.Resources.resources
+D:\USBIO\USB\x64\USB_DotNetDemo_x64\AI_ReadValue\obj\x64\Release\AI_ReadValue.csproj.GenerateResource.Cache
+D:\USBIO\USB\x64\USB_DotNetDemo_x64\AI_ReadValue\bin\x64\Release\AI_ReadValue.exe.config
+D:\USBIO\USB\x64\USB_DotNetDemo_x64\AI_ReadValue\bin\x64\Release\AI_ReadValue.exe
+D:\USBIO\USB\x64\USB_DotNetDemo_x64\AI_ReadValue\bin\x64\Release\AI_ReadValue.pdb
+D:\USBIO\USB\x64\USB_DotNetDemo_x64\AI_ReadValue\obj\x64\Release\AI_ReadValue.exe
+D:\USBIO\USB\x64\USB_DotNetDemo_x64\AI_ReadValue\obj\x64\Release\AI_ReadValue.pdb
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\AI_ReadValue\bin\x64\Release\AI_ReadValue.exe.config
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\AI_ReadValue\obj\x64\Release\AI_ReadValue.exe
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\AI_ReadValue\obj\x64\Release\AI_ReadValue.pdb
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\AI_ReadValue\bin\x64\Release\AI_ReadValue.exe
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\AI_ReadValue\bin\x64\Release\AI_ReadValue.pdb
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\AI_ReadValue\obj\x64\Release\AI_ReadValue.Properties.Resources.resources
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\AI_ReadValue\obj\x64\Release\AI_ReadValue.csproj.GenerateResource.Cache

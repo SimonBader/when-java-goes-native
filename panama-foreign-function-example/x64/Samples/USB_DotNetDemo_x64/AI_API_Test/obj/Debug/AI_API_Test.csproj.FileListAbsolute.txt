@@ -1,0 +1,1 @@
+D:\USBIO\USB\x64\USB_DotNetDemo_x64\AI_API_Test\bin\Debug\AI_API_Test.exe.config

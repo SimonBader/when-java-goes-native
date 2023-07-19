@@ -1,0 +1,10 @@
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DIO_VBNet\bin\Release\DIO_VBNet.exe.config
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DIO_VBNet\bin\Release\DIO_VBNet.exe
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DIO_VBNet\bin\Release\DIO_VBNet.pdb
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DIO_VBNet\bin\Release\DIO_VBNet.xml
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DIO_VBNet\obj\Release\DIO_VBNet.Form1.resources
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DIO_VBNet\obj\Release\DIO_VBNet.Resources.resources
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DIO_VBNet\obj\Release\DIO_VBNet.vbproj.GenerateResource.Cache
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DIO_VBNet\obj\Release\DIO_VBNet.exe
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DIO_VBNet\obj\Release\DIO_VBNet.xml
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DIO_VBNet\obj\Release\DIO_VBNet.pdb

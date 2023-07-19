@@ -1,0 +1,4 @@
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\USB_DIO_Demo\obj\Release\USB_DIO_Demo.vbprojResolveAssemblyReference.cache
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\USB_DIO_Demo\obj\Release\USB_DIO_Demo.DI_ReadValue.FormDI_ReadValue.resources
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\USB_DIO_Demo\obj\Release\USB_DIO_Demo.Resources.resources
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\USB_DIO_Demo\obj\Release\USB_DIO_Demo.vbproj.GenerateResource.Cache

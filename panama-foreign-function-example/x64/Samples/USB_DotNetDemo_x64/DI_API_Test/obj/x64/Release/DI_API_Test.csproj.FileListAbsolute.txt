@@ -1,0 +1,14 @@
+D:\USBIO\USB\x64\USB_DotNetDemo_x64\DI_API_Test\obj\x64\Release\DI_API_Test.Properties.Resources.resources
+D:\USBIO\USB\x64\USB_DotNetDemo_x64\DI_API_Test\obj\x64\Release\DI_API_Test.csproj.GenerateResource.Cache
+D:\USBIO\USB\x64\USB_DotNetDemo_x64\DI_API_Test\bin\x64\Release\DI_API_Test.exe.config
+D:\USBIO\USB\x64\USB_DotNetDemo_x64\DI_API_Test\bin\x64\Release\DI_API_Test.exe
+D:\USBIO\USB\x64\USB_DotNetDemo_x64\DI_API_Test\bin\x64\Release\DI_API_Test.pdb
+D:\USBIO\USB\x64\USB_DotNetDemo_x64\DI_API_Test\obj\x64\Release\DI_API_Test.exe
+D:\USBIO\USB\x64\USB_DotNetDemo_x64\DI_API_Test\obj\x64\Release\DI_API_Test.pdb
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DI_API_Test\bin\x64\Release\DI_API_Test.exe.config
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DI_API_Test\obj\x64\Release\DI_API_Test.exe
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DI_API_Test\obj\x64\Release\DI_API_Test.pdb
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DI_API_Test\bin\x64\Release\DI_API_Test.exe
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DI_API_Test\bin\x64\Release\DI_API_Test.pdb
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DI_API_Test\obj\x64\Release\DI_API_Test.Properties.Resources.resources
+D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DI_API_Test\obj\x64\Release\DI_API_Test.csproj.GenerateResource.Cache
