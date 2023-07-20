@@ -14,7 +14,10 @@
 `cd ..`
 - generate stdio Java library
 `./jextract/jextract-20/bin/jextract --enable-native-access=org.openjdk.jextract --source --output src/main/java -t foreign.c -I /usr/include/ /usr/include/stdio.h`
-- run the HelloWorld sample: `mvn compile exec:java`
+
+## Run
+- run the HelloWorld sample:  
+`mvn compile exec:java`
 
 ## Links
 - https://www.baeldung.com/java-project-panama
