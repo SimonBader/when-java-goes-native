@@ -1,1 +1,0 @@
-D:\USBIO\Final\Release\x64\Samples\USB_DotNetDemo_x64\DI_ReadValue\bin\Release\DI_ReadValue.exe.config
